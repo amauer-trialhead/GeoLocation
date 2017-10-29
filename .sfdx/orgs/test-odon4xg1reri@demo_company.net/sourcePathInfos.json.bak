@@ -32,29 +32,28 @@
     [
         "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1509303184776,
-            "changeTime": 1509303184776,
-            "contentHash": "21561c98dfd0fecdde9706dde46e536247b50732"
+            "modifiedTime": 1509305209245,
+            "changeTime": 1509305209245,
+            "contentHash": "0d7312666f7b358c4f333f091f45816d28936bf2",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura",
         {
+            "state": "u",
             "sourcePath": "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1509298321372,
-            "changeTime": 1509298321372,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 0,
+            "modifiedTime": 1509305230801,
+            "changeTime": 1509305230801,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "8cd9050c0243d5302f6ec35c695333142456ef1f"
         }
     ],
     [
@@ -63,13 +62,12 @@
             "sourcePath": "D:\\SF-Code\\trailhead\\geolocation",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1509298552976,
-            "changeTime": 1509298552976,
-            "contentHash": "eef8e0288540e5ff6a0806fc838111d9b78f2a4f",
+            "modifiedTime": 1509301927420,
+            "changeTime": 1509301927420,
+            "contentHash": "9ac00caf0d373ab51fe4bcab768d93100c92454f",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "isWorkspace": true
         }
     ],
     [
@@ -218,40 +216,690 @@
     [
         "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\classes",
         {
-            "state": "u",
             "sourcePath": "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1509303184859,
             "changeTime": 1509303184859,
-            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42"
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
         {
-            "state": "u",
             "sourcePath": "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 292,
             "modifiedTime": 1509303224831,
             "changeTime": 1509303224831,
-            "contentHash": "1b3bdaf5018ea4a53307d7f7f75627a10855eeb7"
+            "contentHash": "1b3bdaf5018ea4a53307d7f7f75627a10855eeb7",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1509303184862,
             "changeTime": 1509303184862,
-            "contentHash": "cc0a2dcbacbf3621f3b3ac19658879090926c15f"
+            "contentHash": "cc0a2dcbacbf3621f3b3ac19658879090926c15f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator",
+        {
+            "sourcePath": "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1509303316122,
+            "changeTime": 1509303316122,
+            "contentHash": "f6bd7d3a23295ae7ef7a6f8a51c67ae972d48a28",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 206,
+            "modifiedTime": 1509305336433,
+            "changeTime": 1509305336433,
+            "contentHash": "db049c83f47e1c6fc0c9e4dc7a2b5c77a275bfa1"
+        }
+    ],
+    [
+        "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
+        {
+            "sourcePath": "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 246,
+            "modifiedTime": 1509303316107,
+            "changeTime": 1509303316107,
+            "contentHash": "652875ccc6ba6e08028b1aa51773d72e376e436f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
+        {
+            "sourcePath": "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
+            "isDirectory": false,
+            "size": 91,
+            "modifiedTime": 1509303403185,
+            "changeTime": 1509303403185,
+            "contentHash": "2e3b4eef4b39b889549483acf4b30245ff8277dc",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
+        {
+            "sourcePath": "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1509303316114,
+            "changeTime": 1509303316114,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
+        {
+            "sourcePath": "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1509303316118,
+            "changeTime": 1509303316118,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
+        {
+            "sourcePath": "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1509303316127,
+            "changeTime": 1509303316127,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
+        {
+            "sourcePath": "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
+            "isDirectory": false,
+            "size": 267,
+            "modifiedTime": 1509303579946,
+            "changeTime": 1509303579946,
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4457,
+            "modifiedTime": 1509303579955,
+            "changeTime": 1509303579955,
+            "contentHash": "b07203be5b54f0b386be1f56467864b68e67c390",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4797,
+            "modifiedTime": 1509303579962,
+            "changeTime": 1509303579962,
+            "contentHash": "8cf9ff9aa4943adae1d59512fb0d4ca8b2dcfbf9",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "sourcePath": "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 17256,
+            "modifiedTime": 1509303579997,
+            "changeTime": 1509303579997,
+            "contentHash": "ffd6d3373d5b87a5161302a5ae3e9f5cf2bcb0b4",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4461,
+            "modifiedTime": 1509303580004,
+            "changeTime": 1509303580004,
+            "contentHash": "73ad8397e6863de42f0fd812a59698623ba7af38",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\tabs",
+        {
+            "sourcePath": "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1509303579945,
+            "changeTime": 1509303579945,
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1509303580003,
+            "changeTime": 1509303580003,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList",
+        {
+            "sourcePath": "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1509304429643,
+            "changeTime": 1509304429643,
+            "contentHash": "9b10fc950c90c6623061197f88c0db00961e1f2f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem",
+        {
+            "sourcePath": "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1509304539692,
+            "changeTime": 1509304539692,
+            "contentHash": "9fe0106ed0f04a02776eb4dbdb9bb1ee85be87b7",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
+        {
+            "sourcePath": "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
+            "isDirectory": false,
+            "size": 342,
+            "modifiedTime": 1509304587498,
+            "changeTime": 1509304587498,
+            "contentHash": "86a186b5a8b9068c6299caa05cf1227d8b06b391",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
+        {
+            "sourcePath": "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 243,
+            "modifiedTime": 1509304429629,
+            "changeTime": 1509304429629,
+            "contentHash": "cad3497d631bfaa3cddbbd338fcfc07592c1b726",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
+        {
+            "sourcePath": "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
+            "isDirectory": false,
+            "size": 96,
+            "modifiedTime": 1509304793782,
+            "changeTime": 1509304793782,
+            "contentHash": "ba48596aa19674349f227f675e435cb389138f86",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
+        {
+            "sourcePath": "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
+            "isDirectory": false,
+            "size": 257,
+            "modifiedTime": 1509304807525,
+            "changeTime": 1509304807525,
+            "contentHash": "bb5ea35b79a251f4367e9a0122abca02ca5f0a17",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
+        {
+            "sourcePath": "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1509304429640,
+            "changeTime": 1509304429640,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
+        {
+            "sourcePath": "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1509304429649,
+            "changeTime": 1509304429649,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
+        {
+            "sourcePath": "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
+            "isDirectory": false,
+            "size": 128,
+            "modifiedTime": 1509304552110,
+            "changeTime": 1509304552110,
+            "contentHash": "f75bbd949f58b0b27f589dac9821a565a9e55ac9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
+        {
+            "sourcePath": "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 247,
+            "modifiedTime": 1509304539684,
+            "changeTime": 1509304539684,
+            "contentHash": "dc9e3ef3297121e477d211d184a4c93536e11d71",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
+        {
+            "sourcePath": "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
+            "isDirectory": false,
+            "size": 156,
+            "modifiedTime": 1509304563827,
+            "changeTime": 1509304563827,
+            "contentHash": "a7a77521b514d1bf00bfe345395a77917a92a211",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemController.js",
+        {
+            "sourcePath": "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1509304539686,
+            "changeTime": 1509304539686,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemHelper.js",
+        {
+            "sourcePath": "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1509304539689,
+            "changeTime": 1509304539689,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemRenderer.js",
+        {
+            "sourcePath": "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1509304539693,
+            "changeTime": 1509304539693,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet.resource-meta.xml",
+        {
+            "sourcePath": "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet.resource-meta.xml",
+            "isDirectory": false,
+            "size": 223,
+            "modifiedTime": 1509305209251,
+            "changeTime": 1509305209251,
+            "contentHash": "fe95029d9d0695d7ebbb9f1ee9a2a5448a6e8fbb",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:/SF-Code/trailhead/geolocation/force-app/main/default/staticresources/leaflet",
+        {
+            "sourcePath": "D:/SF-Code/trailhead/geolocation/force-app/main/default/staticresources/leaflet",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1509305209457,
+            "changeTime": 1509305209457,
+            "contentHash": "ef86d3d12efa4e132890afd141d18f3050a16029",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:/SF-Code/trailhead/geolocation/force-app/main/default/staticresources/leaflet/images",
+        {
+            "sourcePath": "D:/SF-Code/trailhead/geolocation/force-app/main/default/staticresources/leaflet/images",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1509305209270,
+            "changeTime": 1509305209270,
+            "contentHash": "504aa9d4037501ec4d0edf632f7af41532b43659",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:/SF-Code/trailhead/geolocation/force-app/main/default/staticresources/leaflet/images/layers-2x.png",
+        {
+            "sourcePath": "D:/SF-Code/trailhead/geolocation/force-app/main/default/staticresources/leaflet/images/layers-2x.png",
+            "isDirectory": false,
+            "size": 1259,
+            "modifiedTime": 1509305209259,
+            "changeTime": 1509305209259,
+            "contentHash": "152a162333e46d24f9d89f566312fc0c64011dee",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:/SF-Code/trailhead/geolocation/force-app/main/default/staticresources/leaflet/images/layers.png",
+        {
+            "sourcePath": "D:/SF-Code/trailhead/geolocation/force-app/main/default/staticresources/leaflet/images/layers.png",
+            "isDirectory": false,
+            "size": 696,
+            "modifiedTime": 1509305209262,
+            "changeTime": 1509305209262,
+            "contentHash": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:/SF-Code/trailhead/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon-2x.png",
+        {
+            "sourcePath": "D:/SF-Code/trailhead/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon-2x.png",
+            "isDirectory": false,
+            "size": 2586,
+            "modifiedTime": 1509305209266,
+            "changeTime": 1509305209266,
+            "contentHash": "95a44b9ca71fe03fdf65ddd8eea12f1910f38de2",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:/SF-Code/trailhead/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon.png",
+        {
+            "sourcePath": "D:/SF-Code/trailhead/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon.png",
+            "isDirectory": false,
+            "size": 1466,
+            "modifiedTime": 1509305209268,
+            "changeTime": 1509305209268,
+            "contentHash": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:/SF-Code/trailhead/geolocation/force-app/main/default/staticresources/leaflet/images/marker-shadow.png",
+        {
+            "sourcePath": "D:/SF-Code/trailhead/geolocation/force-app/main/default/staticresources/leaflet/images/marker-shadow.png",
+            "isDirectory": false,
+            "size": 618,
+            "modifiedTime": 1509305209271,
+            "changeTime": 1509305209271,
+            "contentHash": "7b6a8df63930381e96604e705168d0527d6b82bc",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:/SF-Code/trailhead/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js",
+        {
+            "sourcePath": "D:/SF-Code/trailhead/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js",
+            "isDirectory": false,
+            "size": 389832,
+            "modifiedTime": 1509305209314,
+            "changeTime": 1509305209314,
+            "contentHash": "19438b9a9d066e915e96db27259a5948c4f4f4e3",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:/SF-Code/trailhead/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js.map",
+        {
+            "sourcePath": "D:/SF-Code/trailhead/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js.map",
+            "isDirectory": false,
+            "size": 741401,
+            "modifiedTime": 1509305209378,
+            "changeTime": 1509305209378,
+            "contentHash": "a93b2d29416cb0ec882ac28f41dcc4bd18e1cd99",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:/SF-Code/trailhead/geolocation/force-app/main/default/staticresources/leaflet/leaflet.css",
+        {
+            "sourcePath": "D:/SF-Code/trailhead/geolocation/force-app/main/default/staticresources/leaflet/leaflet.css",
+            "isDirectory": false,
+            "size": 14061,
+            "modifiedTime": 1509305209384,
+            "changeTime": 1509305209384,
+            "contentHash": "d7015409fa5ce3f54a60c25562a7ebf858d90397",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:/SF-Code/trailhead/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js",
+        {
+            "sourcePath": "D:/SF-Code/trailhead/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js",
+            "isDirectory": false,
+            "size": 137208,
+            "modifiedTime": 1509305209444,
+            "changeTime": 1509305209444,
+            "contentHash": "87938b386fd7224a667332336c59b79e7fa0fde6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:/SF-Code/trailhead/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js.map",
+        {
+            "sourcePath": "D:/SF-Code/trailhead/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js.map",
+            "isDirectory": false,
+            "size": 186247,
+            "modifiedTime": 1509305209464,
+            "changeTime": 1509305209464,
+            "contentHash": "0e397274f80e9a86d4ad7a6534c23ba9e10b6448",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet",
+        {
+            "sourcePath": "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1509305209457,
+            "changeTime": 1509305209457,
+            "contentHash": "ef86d3d12efa4e132890afd141d18f3050a16029",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\staticresources",
+        {
+            "sourcePath": "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\staticresources",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1509305209257,
+            "changeTime": 1509305209257,
+            "contentHash": "a3ad4d54448f22cbf71389bec794c76ffeb81f49",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1509305230811,
+            "changeTime": 1509305230811,
+            "contentHash": "a5a66581a4cb3394b3727c3a6a9ae0440bec88e4"
+        }
+    ],
+    [
+        "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 260,
+            "modifiedTime": 1509305290348,
+            "changeTime": 1509305290348,
+            "contentHash": "942ff45728b690d7ff605de9908ff0821a651669"
+        }
+    ],
+    [
+        "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 242,
+            "modifiedTime": 1509305230806,
+            "changeTime": 1509305230806,
+            "contentHash": "3a2d6938d275475fd4ed3800a5fe9151c0677f15"
+        }
+    ],
+    [
+        "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 42,
+            "modifiedTime": 1509305313767,
+            "changeTime": 1509305313767,
+            "contentHash": "b5c7a9773c9f99067d3777ecad9e5dd88e3b717c"
+        }
+    ],
+    [
+        "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 389,
+            "modifiedTime": 1509305304756,
+            "changeTime": 1509305304756,
+            "contentHash": "96df2bbc44d6a1cc778c826039135b3cba593eaa"
+        }
+    ],
+    [
+        "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1509305230809,
+            "changeTime": 1509305230809,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SF-Code\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1509305230812,
+            "changeTime": 1509305230812,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
 ]
